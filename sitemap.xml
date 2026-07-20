@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>news.html</loc>
+                 <lastmod>2026-07-20T01:25:10+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>building-systems-and-code-for-multi-family-construction-a-primer.html</loc>
+                 <lastmod>2026-07-20T01:25:10+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>irc-vs-ibc-and-construction-types-explained.html</loc>
+                 <lastmod>2026-07-20T01:25:10+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>fire-separation-and-sprinkler-systems-in-multi-family-buildings.html</loc>
+                 <lastmod>2026-07-20T01:25:10+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>means-of-egress-exits-stairs-and-travel-distance.html</loc>
+                 <lastmod>2026-07-20T01:25:10+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sound-transmission-between-apartment-units.html</loc>
+                 <lastmod>2026-07-20T01:25:10+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2026-07-20T01:25:10+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2026-07-20T01:25:10+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>feed.xml</loc>
+                 <lastmod>2026-07-20T01:25:10+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
